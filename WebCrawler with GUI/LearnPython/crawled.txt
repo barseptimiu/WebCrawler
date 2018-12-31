@@ -1,0 +1,136 @@
+http://www.learnpython.org/en/Classes%20and%20Objects
+http://www.learnpython.org/en/Functions
+https://www.learnpython.org
+https://www.learnpython.org/
+https://www.learnpython.org/Basic Operators
+https://www.learnpython.org/Basic String Operations
+https://www.learnpython.org/Classes and Objects
+https://www.learnpython.org/Closures
+https://www.learnpython.org/Code Introspection
+https://www.learnpython.org/Conditions
+https://www.learnpython.org/Contributing Tutorials
+https://www.learnpython.org/Decorators
+https://www.learnpython.org/Dictionaries
+https://www.learnpython.org/Exception Handling
+https://www.learnpython.org/Functions
+https://www.learnpython.org/Generators
+https://www.learnpython.org/Hello, World!
+https://www.learnpython.org/List Comprehensions
+https://www.learnpython.org/Lists
+https://www.learnpython.org/Loops
+https://www.learnpython.org/Modules and Packages
+https://www.learnpython.org/Multiple Function Arguments
+https://www.learnpython.org/Numpy Arrays
+https://www.learnpython.org/Pandas Basics
+https://www.learnpython.org/Partial functions
+https://www.learnpython.org/Regular Expressions
+https://www.learnpython.org/Serialization
+https://www.learnpython.org/Sets
+https://www.learnpython.org/String Formatting
+https://www.learnpython.org/Variables and Types
+https://www.learnpython.org/about
+https://www.learnpython.org/cdn-cgi/l/email-protection
+https://www.learnpython.org/cdn-cgi/l/email-protection#4635333636293432062a23273428363f322e292868293421
+https://www.learnpython.org/cdn-cgi/l/email-protection#7a090f0a0a15080e3a161f1b08140a030e1215145415081d
+https://www.learnpython.org/cdn-cgi/l/email-protection#c1b2b4b1b1aeb3b581ada4a0b3afb1b8b5a9aeafefaeb3a6
+https://www.learnpython.org/en/
+https://www.learnpython.org/en/Basic_Operators
+https://www.learnpython.org/en/Basic_String_Operations
+https://www.learnpython.org/en/Classes_and_Objects
+https://www.learnpython.org/en/Closures
+https://www.learnpython.org/en/Code_Introspection
+https://www.learnpython.org/en/Conditions
+https://www.learnpython.org/en/Contributing_Tutorials
+https://www.learnpython.org/en/Decorators
+https://www.learnpython.org/en/Dictionaries
+https://www.learnpython.org/en/Exception_Handling
+https://www.learnpython.org/en/Functions
+https://www.learnpython.org/en/Generators
+https://www.learnpython.org/en/Hello%2C_World%21
+https://www.learnpython.org/en/Hello,_World!
+https://www.learnpython.org/en/List_Comprehensions
+https://www.learnpython.org/en/Lists
+https://www.learnpython.org/en/Loops
+https://www.learnpython.org/en/Modules_and_Packages
+https://www.learnpython.org/en/Multiple_Function_Arguments
+https://www.learnpython.org/en/Numpy_Arrays
+https://www.learnpython.org/en/Pandas_Basics
+https://www.learnpython.org/en/Partial_functions
+https://www.learnpython.org/en/Regular_Expressions
+https://www.learnpython.org/en/Serialization
+https://www.learnpython.org/en/Sets
+https://www.learnpython.org/en/String_Formatting
+https://www.learnpython.org/en/Variables_and_Types
+https://www.learnpython.org/en/Welcome
+https://www.learnpython.org/es/
+https://www.learnpython.org/fa/
+https://www.learnpython.org/fa/%D8%A7%D9%86%D9%88%D8%A7%D8%B9_%D8%B4%D8%B1%D8%B7
+https://www.learnpython.org/fa/%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7%DB%8C%DB%8C
+https://www.learnpython.org/fa/%D8%AA%D8%A7%D8%A8%D8%B9_%D9%87%D8%A7
+https://www.learnpython.org/fa/%D8%AA%D8%A7%D8%A8%D8%B9_%D9%87%D8%A7%DB%8C_%DA%86%D9%86%D8%AF_%D9%BE%D8%A7%D8%B1%D8%A7%D9%85%D8%AA%D8%B1%DB%8C
+https://www.learnpython.org/fa/%D8%AD%D9%84%D9%82%D9%87_%D9%87%D8%A7
+https://www.learnpython.org/fa/%D8%AF%DB%8C%DA%A9%D8%B4%D9%86%D8%B1%DB%8C_%D9%87%D8%A7
+https://www.learnpython.org/fa/%D8%B3%D9%84%D8%A7%D9%85_%D8%AC%D9%87%D8%A7%D9%86%21
+https://www.learnpython.org/fa/%D8%B9%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA_%D8%A8%D8%A7_%D9%82%D8%A7%D8%B9%D8%AF%D9%87
+https://www.learnpython.org/fa/%D9%81%D8%A7%D8%B1%D8%B3%DB%8C
+https://www.learnpython.org/fa/%D9%81%D8%B4%D8%B1%D8%AF%D9%87_%D8%B3%D8%A7%D8%B2%DB%8C
+https://www.learnpython.org/fa/%D9%84%DB%8C%D8%B3%D8%AA_%D9%87%D8%A7
+https://www.learnpython.org/fa/%D9%85%D8%AA%D8%BA%DB%8C%D8%B1_%D9%87%D8%A7_%D9%88_%D8%AF%D8%A7%D8%AF%D9%87_%D9%87%D8%A7
+https://www.learnpython.org/fa/%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA_%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7
+https://www.learnpython.org/fa/%D9%87%D9%85%DB%8C%D8%A7%D8%B1%DB%8C_%D8%AF%D8%B1_%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF_%D8%A2%D9%85%D9%88%D8%B2%D8%B4
+https://www.learnpython.org/fa/%DA%A9%D9%84%D8%A7%D8%B3_%D9%87%D8%A7_%D9%88__%D8%A7%D8%B4%DB%8C%D8%A7%D8%A1
+https://www.learnpython.org/fa/Welcome
+https://www.learnpython.org/fa/انواع_شرط
+https://www.learnpython.org/fa/ایتالیایی
+https://www.learnpython.org/fa/تابع_ها
+https://www.learnpython.org/fa/تابع_های_چند_پارامتری
+https://www.learnpython.org/fa/حلقه_ها
+https://www.learnpython.org/fa/دیکشنری_ها
+https://www.learnpython.org/fa/سلام_جهان!
+https://www.learnpython.org/fa/عبارات_با_قاعده
+https://www.learnpython.org/fa/فارسی
+https://www.learnpython.org/fa/فشرده_سازی
+https://www.learnpython.org/fa/لیست_ها
+https://www.learnpython.org/fa/متغیر_ها_و_داده_ها
+https://www.learnpython.org/fa/مدیریت_استثنا
+https://www.learnpython.org/fa/همیاری_در_ایجاد_آموزش
+https://www.learnpython.org/fa/کلاس_ها_و__اشیاء
+https://www.learnpython.org/fr/
+https://www.learnpython.org/fr/Hello%2C_World%21
+https://www.learnpython.org/it/
+https://www.learnpython.org/it/Ciao_Mondo
+https://www.learnpython.org/it/Formattazione_delle_stringhe
+https://www.learnpython.org/it/Funzioni_con_Argomenti_Multipli
+https://www.learnpython.org/it/Liste
+https://www.learnpython.org/it/Operatori_Base
+https://www.learnpython.org/it/Variabili_e_tipi
+https://www.learnpython.org/it/Welcome
+https://www.learnpython.org/pl/
+https://www.learnpython.org/pl/Formatowanie_Napisow
+https://www.learnpython.org/pl/Funkcje
+https://www.learnpython.org/pl/Funkcje_czesciowe
+https://www.learnpython.org/pl/Funkcje_o_zmiennej_liczbie_argumentow
+https://www.learnpython.org/pl/Instrukcje_warunkowe
+https://www.learnpython.org/pl/Klasy_i_obiekty
+https://www.learnpython.org/pl/Listy_skladane
+https://www.learnpython.org/pl/Moduly_i_pakiety
+https://www.learnpython.org/pl/Obsluga_wyjatkow
+https://www.learnpython.org/pl/Petle
+https://www.learnpython.org/pl/Podstawowe_operacje_na_napisach
+https://www.learnpython.org/pl/Podstawowe_operatory
+https://www.learnpython.org/pl/Slowniki
+https://www.learnpython.org/pl/Tablice
+https://www.learnpython.org/pl/Welcome
+https://www.learnpython.org/pl/Witaj_Swiecie
+https://www.learnpython.org/pl/Wyrazenia_regularne
+https://www.learnpython.org/pl/Zbiory
+https://www.learnpython.org/pl/Zmienne_i_typy
+https://www.learnpython.org/privacy
+https://www.learnpython.org/pt/
+https://www.learnpython.org/pt/Classes_e_Objetos
+https://www.learnpython.org/pt/Opera%C3%A7%C3%B5es_b%C3%A1sicas_de_string
+https://www.learnpython.org/pt/Operadores_b%C3%A1sicos
+https://www.learnpython.org/pt/Operadores_básicos
+https://www.learnpython.org/pt/Operações_básicas_de_string
+https://www.learnpython.org/recruit-coders-jobs
+https://www.learnpython.org/tos
